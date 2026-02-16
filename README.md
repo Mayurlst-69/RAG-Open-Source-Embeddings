@@ -23,8 +23,8 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) pi
 ## 🛠 Tech Stack
 | Component | Technology | Description |
 | :--- | :--- | :--- |
-| **LLM** | Llama 3-8b | Via Groq API (Free Beta) |
-| **Embeddings** | BAAI/bge-base-en-v1.5 | High MTEB Score Model |
+| **LLM** | llama-3.3-70b-versatile | Via Groq API (Free Beta) |
+| **Embeddings** | BAAI/bge-m3 | High MTEB Score Model |
 | **Vector DB** | ChromaDB | Lightweight & Local |
 | **Framework** | LangChain | Orchestration |
 
