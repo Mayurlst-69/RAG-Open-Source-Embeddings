@@ -33,3 +33,14 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) pi
 ### 1. Clone the repo
 ```bash
 git clone [https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings.git](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings.git)
+
+### 2. Install requirements
+pip install -r requirements.txt
+
+### 3. Run
+3. Run
+Open RAG_Project.ipynb and follow the steps!
+
+<div align="center">
+Create with ❤️ by [Mayurlst-69]
+</div>
