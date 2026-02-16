@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run
 ```bash
-Open RAG_Project.ipynb and follow the steps!
+Open RAG_Embedding_Project.ipynb and follow the steps!
 ```
 <div align="center">
 Create by [Mayurlst-69]
