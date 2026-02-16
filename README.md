@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Serverless RAG with Groq & Open Source Embeddings
+# 📚 Serverless RAG & Open Source Embeddings
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Integration-1C3C3C?style=for-the-badge&logo=langchain)
