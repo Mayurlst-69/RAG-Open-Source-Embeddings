@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+.py[cod]
+
+# Environment variables 
+.env
+.secrets
+
+# Jupyter Notebook checkpoints 
+.ipynb_checkpoints
+
+# Data & Database 
+.pdf
+chroma_db/
+data/
