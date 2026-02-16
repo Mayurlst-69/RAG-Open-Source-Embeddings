@@ -1,26 +1,35 @@
-📚 Serverless RAG with Groq & Open Source Embeddings
+<div align="center">
 
-A lightweight, high-performance Retrieval-Augmented Generation (RAG) system running entirely on Google Colab or local environment using free-tier resources.
+# 📚 Serverless RAG with Groq & Open Source Embeddings
 
-🌟 Key Features
-- High-Performance Embeddings: Utilizes `BAAI/bge-m3`
-- Blazing Fast Inference: Powered by Groq Cloud API (Llama 3 / Mixtral) for sub-second responses.
-- Zero Cost: Built using 100% free open-source tools and API tiers.
-- Vector Database: Implements ChromaDB for efficient vector storage and retrieval.
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Integration-1C3C3C?style=for-the-badge&logo=langchain)
+![API](https://img.shields.io/badge/LLM-Llama3_(Groq)-orange?style=for-the-badge)
 
-🛠 Tech Stack
-- LLM: llama-3.3-70b-versatile (via Groq API)
-- Embeddings: HuggingFace (`BAAI/bge-m3`)
-- Vector Store: ChromaDB
-- Orchestration: LangChain
-- PDF Processing: PyPDF
 
-🚀 Quick Start
+<br>
 
-Prerequisites
-1.  Get a free API Key from [Groq Cloud](https://console.groq.com/).
-2.  Python 3.10+
+**A high-performance RAG system running entirely on Free Tier resources.**
+<br>
+*Fast Inference • Open Source Embeddings • Zero Cost*
 
-Installation
-`bash
-pip install -r requirements.txt
+</div>
+
+---
+
+## 🌟 Overview
+This project demonstrates how to build a Retrieval-Augmented Generation (RAG) pipeline using **Groq API** for ultra-fast inference and **HuggingFace Embeddings** for high-quality retrieval, all within Google Colab.
+
+## 🛠 Tech Stack
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **LLM** | Llama 3-8b | Via Groq API (Free Beta) |
+| **Embeddings** | BAAI/bge-base-en-v1.5 | High MTEB Score Model |
+| **Vector DB** | ChromaDB | Lightweight & Local |
+| **Framework** | LangChain | Orchestration |
+
+## 🚀 Quick Start
+
+### 1. Clone the repo
+```bash
+git clone [https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings.git](https://github.com/Mayurlst-69/RAG-Open-Source-Embeddings.git)
