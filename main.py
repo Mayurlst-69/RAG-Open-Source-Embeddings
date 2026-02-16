@@ -93,7 +93,6 @@ if __name__ == "__main__":
     # 2. Check for PDF 
     pdf_file = "document.pdf" # <---- your flie
     
-    # ถ้าไม่มีไฟล์ PDF ให้สร้างไฟล์หลอกๆ หรือแจ้งเตือน
     if not os.path.exists(pdf_file):
         print(f"⚠️  Please place a PDF file named '{pdf_file}' in this folder to run the demo.")
     else:
