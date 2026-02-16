@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Integration-1C3C3C?style=for-the-badge&logo=langchain)
 ![API](https://img.shields.io/badge/LLM-Llama3_(Groq)-orange?style=for-the-badge)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mayurlst-69/RAG-Open-Source-Embeddings/blob/main/Code.ipynb)
 
 <br>
 
