@@ -87,7 +87,7 @@ python main.py
 **Option 2: Interactive Notebook
 Open Code.ipynb in Jupyter Notebook or Google Colab for a step-by-step walkthrough.
 
-##⚙️ Configuration
+## ⚙️ Configuration
 You can modify main.py to customize the pipeline:
 <img width="686" height="195" alt="image" src="https://github.com/user-attachments/assets/277b0665-5ee7-42b0-81a5-213633b7c4a5" />
 
